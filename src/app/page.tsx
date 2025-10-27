@@ -41,7 +41,7 @@ export default function Page() {
           </a>
 
           <a
-  href="/form"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSde3rYYsMBpgmmE2L_Ep0_qS_-fJsyADyflJTxyxqYwj9JZ9g/viewform"
   className="px-4 py-2 rounded-xl bg-blue-600 text-white font-medium shadow"
 >
   Register Now
